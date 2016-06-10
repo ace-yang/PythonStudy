@@ -8,6 +8,7 @@ class MyClass(object):
     '''
     This a test
     '''
+    
 
 
     def __init__(self, params):
